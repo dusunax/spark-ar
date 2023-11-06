@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "vhs_stop",
+  "identifier": "texture:323742-8e4f09d7-4f63-4882-908f-6a289fd22a2a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5e6dd72ed77bb85f0c9a4f01a25a71ae",
+  "assetLocator": "textures/vhs_stop.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 400,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5e6dd72ed77bb85f0c9a4f01a25a71ae",
+      "colorCount": 196,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.2396091344136767,
+      "pixelsHigh": 800,
+      "pixelsWide": 400
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "hud_01_00008",
+  "identifier": "texture:218964-8e4f09d7-4f63-4882-908f-6a289fd22a2a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "17a0d9dd08b56ebf701a15c276c6c500",
+  "assetLocator": "textures/hud_01_00008.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 200,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 200,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "17a0d9dd08b56ebf701a15c276c6c500",
+      "colorCount": 48,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.5282398909610687,
+      "pixelsHigh": 200,
+      "pixelsWide": 200
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "vhs_bg",
+  "identifier": "texture:321283-8e4f09d7-4f63-4882-908f-6a289fd22a2a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7ebab3b2b800133171387c21c4e93dc2",
+  "assetLocator": "textures/vhs_bg.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 400,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7ebab3b2b800133171387c21c4e93dc2",
+      "colorCount": 15750,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 12.014632087149757,
+      "pixelsHigh": 800,
+      "pixelsWide": 400
+    }
+  ]
+}

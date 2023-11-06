@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "smile-05",
+  "identifier": "texture:214670-8e4f09d7-4f63-4882-908f-6a289fd22a2a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "b2682ec1af33f70d2fad55e2258ae9a4",
+  "assetLocator": "textures/smile-05.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "b2682ec1af33f70d2fad55e2258ae9a4",
+      "colorCount": 1083,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.943041427734241,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
