@@ -1,0 +1,888 @@
+{
+  "id": "921600da05c68c87a426ea30e77ff897afc34",
+  "revision": "921610da05c68c87a426ea30e77ff897afc34",
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 173
+  },
+  "creatorIdentifier": "com.facebook.arstudio.skylight",
+  "creatorPlatform": "macosx",
+  "creatorFileVersion": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 173
+  },
+  "visual_programming": {
+    "connections": [
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:100272-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:100898-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:94763-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:100888-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92817-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "101",
+        "toPatch": "patch_asset_instance_model:100898-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:100902-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92933-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "patch_asset_instance_model:100900-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:100904-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:100900-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95001-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:100908-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:100906-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95011-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:100910-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92931-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "patch_asset_instance_model:100906-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103354-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:100912-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95639-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103356-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:101519-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95641-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103358-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:103352-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95876-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103360-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:102739-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95878-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103362-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:102128-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:95880-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103364-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92937-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "102",
+        "toPatch": "patch_asset_instance_model:102128-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103366-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92937-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "101",
+        "toPatch": "patch_asset_instance_model:102739-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103368-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92937-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "patch_asset_instance_model:103352-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103370-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92931-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "102",
+        "toPatch": "patch_asset_instance_model:101519-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:103372-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92931-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "101",
+        "toPatch": "patch_asset_instance_model:100912-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104014-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:104002-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:93349-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104016-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:104010-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:93351-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104018-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:104006-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:93357-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104020-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:104012-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:93353-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104022-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:104004-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:93355-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104024-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "patch_asset_instance_model:104008-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPort": "459473152417538620",
+        "toPatch": "consumer_patch_model:93359-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104026-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92939-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "102",
+        "toPatch": "patch_asset_instance_model:104008-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104028-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92939-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "101",
+        "toPatch": "patch_asset_instance_model:104004-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104030-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92939-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "patch_asset_instance_model:104012-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104032-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92935-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "102",
+        "toPatch": "patch_asset_instance_model:104006-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104034-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92935-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "101",
+        "toPatch": "patch_asset_instance_model:104010-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:104036-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "fromPatch": "template_patch_model:92935-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "patch_asset_instance_model:104002-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "toPort": "6573470934964577495"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92815-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92705-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92941-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92931-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92943-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92935-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92945-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92933-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92947-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92817-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92949-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92937-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:92951-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPatch": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "fromPort": "100",
+        "toPatch": "template_patch_model:92939-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "toPort": "1"
+      }
+    ],
+    "graphs": [
+      {
+        "modelName": "patch_graph",
+        "identifier": "patch_graph:92252-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "subpatches": [
+          "consumer_patch_model:93349-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+          "consumer_patch_model:93351-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+          "consumer_patch_model:93353-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+          "consumer_patch_model:93355-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+          "consumer_patch_model:93357-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+          "consumer_patch_model:93359-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+          "consumer_patch_model:94763-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95001-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95011-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95639-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95641-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95876-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95878-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "consumer_patch_model:95880-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "patch_asset_instance_model:100898-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:100900-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:100906-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:100912-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:101519-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:102128-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:102739-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:103352-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:104002-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:104004-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:104006-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:104008-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:104010-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "patch_asset_instance_model:104012-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+          "template_patch_model:92705-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92817-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92931-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92933-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92935-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92937-0da05c68-c87a-426e-a30e-77ff897afc34",
+          "template_patch_model:92939-0da05c68-c87a-426e-a30e-77ff897afc34"
+        ]
+      }
+    ],
+    "patches": [
+      {
+        "modelName": "consumer_patch_model",
+        "name": "LeftShoulder0",
+        "identifier": "consumer_patch_model:93349-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "object": "rectangle_model:93151-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1124,
+          356
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                196.1230010986328,
+                259.8216552734375
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "LeftElbow0",
+        "identifier": "consumer_patch_model:93351-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "object": "rectangle_model:93154-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1124,
+          428
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                228.46046447753906,
+                353.332275390625
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "RightShoulder0",
+        "identifier": "consumer_patch_model:93353-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "object": "rectangle_model:92920-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1124,
+          572
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                100.45738983154297,
+                262.7234802246094
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "RightElbow0",
+        "identifier": "consumer_patch_model:93355-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "object": "rectangle_model:92923-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1124,
+          644
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                90.98530578613281,
+                360.935302734375
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "LeftWrist0",
+        "identifier": "consumer_patch_model:93357-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "object": "rectangle_model:93157-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1124,
+          500
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                239.05653381347656,
+                437.3465576171875
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "RightWrist0",
+        "identifier": "consumer_patch_model:93359-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "object": "rectangle_model:92926-2181063f-f605-4f38-889b-21f4b3b9f5a8",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1124,
+          716
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                64.96046447753906,
+                404.7955627441406
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "topHead",
+        "identifier": "consumer_patch_model:94763-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:93437-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          -412
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                -344807.8125,
+                -183627.03125
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "TopHead",
+        "identifier": "consumer_patch_model:95001-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:94827-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          -292
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                199.87673950195312,
+                97.27156829833984
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "LeftEye",
+        "identifier": "consumer_patch_model:95011-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:94836-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          -100
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                218.00772094726562,
+                147.19252014160156
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "LeftElbow",
+        "identifier": "consumer_patch_model:95639-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:94839-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          -28
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                193.80308532714844,
+                148.13092041015625
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "LeftWrist",
+        "identifier": "consumer_patch_model:95641-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:94842-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          44
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                232.18858337402344,
+                161.741943359375
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "RightShoulder",
+        "identifier": "consumer_patch_model:95876-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:95698-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          116
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                272.3887939453125,
+                244.9134979248047
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "RightElbow",
+        "identifier": "consumer_patch_model:95878-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:95701-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          188
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                287.3573303222656,
+                359.21319580078125
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "RightWrist",
+        "identifier": "consumer_patch_model:95880-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "object": "rectangle_model:95704-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "objectProperty": "planar_object_position",
+        "position": [
+          1244,
+          260
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec2",
+              "v": [
+                282.2969665527344,
+                468.9259948730469
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:100898-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          -412
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:100900-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          -292
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:100906-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          -100
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:100912-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          -28
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:101519-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          44
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:102128-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          260
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:102739-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          188
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:103352-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          1004,
+          116
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:104002-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          884,
+          356
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:104004-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          884,
+          644
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:104006-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          884,
+          500
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:104008-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          884,
+          716
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:104010-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          884,
+          428
+        ]
+      },
+      {
+        "modelName": "patch_asset_instance_model",
+        "name": "smoothing",
+        "identifier": "patch_asset_instance_model:104012-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "patchAsset": "patch_data_base_model:100896-4d4efc31-d7db-46e4-9fbc-553430fd00bb",
+        "position": [
+          884,
+          572
+        ]
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Body Finder",
+        "identifier": "template_patch_model:92705-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          142.4878906249998,
+          98.67695312500007
+        ],
+        "templateId": "builtin.bodyFinder"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Body Select",
+        "identifier": "template_patch_model:92813-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          284,
+          44
+        ],
+        "templateId": "builtin.bodySelect"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Head 2D",
+        "identifier": "template_patch_model:92817-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          644,
+          -340
+        ],
+        "templateId": "builtin.bodyHead2D"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Left Arm 2D",
+        "identifier": "template_patch_model:92931-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          644,
+          20
+        ],
+        "templateId": "builtin.bodyLeftArm2D"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Neck 2D",
+        "identifier": "template_patch_model:92933-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          644,
+          -124
+        ],
+        "templateId": "builtin.bodyNeck2D"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Left Leg 2D",
+        "identifier": "template_patch_model:92935-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          644,
+          476
+        ],
+        "templateId": "builtin.bodyLeftLeg2D"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Right Arm 2D",
+        "identifier": "template_patch_model:92937-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          644,
+          116
+        ],
+        "templateId": "builtin.bodyRightArm2D"
+      },
+      {
+        "modelName": "template_patch_model",
+        "name": "Right Leg 2D",
+        "identifier": "template_patch_model:92939-0da05c68-c87a-426e-a30e-77ff897afc34",
+        "position": [
+          644,
+          572
+        ],
+        "templateId": "builtin.bodyRightLeg2D"
+      }
+    ]
+  }
+}
